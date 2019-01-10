@@ -5,3 +5,6 @@
     cursor: pointer;
     color: #0088cc;
   }
+  .contacts:hover {
+    text-decoration: underline;
+  }  
